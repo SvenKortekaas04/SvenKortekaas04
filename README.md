@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SvenKortekaas04
+- 👋 Hi, I’m Sven Kortekaas
 - 👀 I’m interested in computer science and machine learning
 
 <!--
