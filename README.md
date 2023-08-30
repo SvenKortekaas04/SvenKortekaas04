@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sven Kortekaas
-- 👀 I’m interested in computer science, machine learning and robotics.
 
 <!--
 - 🌱 I’m currently learning ...
