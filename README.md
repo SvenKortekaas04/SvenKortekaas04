@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sven Kortekaas
+👋 Hi, I’m Sven Kortekaas
 
 <!--
 - 🌱 I’m currently learning ...
